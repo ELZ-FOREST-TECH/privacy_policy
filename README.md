@@ -1,5 +1,4 @@
-# Privacy Policy for the ELZ Forest app
- 
+# Privacy Policy
 
 [![image](https://user-images.githubusercontent.com/49877495/153979134-98557c44-7592-4367-a8fe-3b84ccdba1c3.png)](https://play.google.com/store/apps/details?id=ru.elz.ssi)
 
