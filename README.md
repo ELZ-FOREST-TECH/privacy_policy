@@ -1,4 +1,7 @@
-**Privacy Policy**
+**Privacy Policy for the ELZ Forest app**
+
+[![image](https://user-images.githubusercontent.com/49877495/153979134-98557c44-7592-4367-a8fe-3b84ccdba1c3.png)](https://play.google.com/store/apps/details?id=ru.elz.ssi)
+
 
 ELZ-FOREST TECH built the Forest app as [open source/free/freemium/ad-supported/commercial] app. This SERVICE is provided by ELZ-FOREST TECH at no cost and is intended for use as is.
 
@@ -47,6 +50,9 @@ We value your trust in providing us your Personal Information, thus we are striv
 **Links to Other Sites**
 
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+**Location data**  
+We use user location data in order to ensure the functionality of the mobile application functions, we receive data in the background, even when the application is closed. The data is used only for the functionality of the application and is transmitted for processing to our servers if the application supports network exchange (depending on the version and mode of the application, access rights). The exchange of the received geodata (including those received in the background) is possible by means of the application through the user interface. We do not transfer data to third parties, including for advertising, etc. Only service employees have access. The user himself can exchange information created in the application from the application.
 
 **Children’s Privacy**
 
