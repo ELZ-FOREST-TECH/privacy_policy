@@ -3,7 +3,7 @@
 [![image](https://user-images.githubusercontent.com/49877495/153979134-98557c44-7592-4367-a8fe-3b84ccdba1c3.png)](https://play.google.com/store/apps/details?id=ru.elz.ssi)
 
 
-ELZ-FOREST TECH built the Forest app as [open source/free/freemium/ad-supported/commercial] app. This SERVICE is provided by ELZ-FOREST TECH at no cost and is intended for use as is.
+ELZ-FOREST TECH built the Forest app as commercial app. This SERVICE is provided by ELZ-FOREST TECH at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -26,12 +26,6 @@ Link to the privacy policy of third-party service providers used by the app
 
 We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
 
-**Cookies**
-
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
-
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
-
 **Service Providers**
 
 We may employ third-party companies and individuals due to the following reasons:
@@ -52,6 +46,7 @@ We value your trust in providing us your Personal Information, thus we are striv
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
 **Location data**  
+
 Geolocation mean the geographical coordinates (latitude and longitude) of a place on Earth. We use user location data in order to ensure the functionality of the mobile application functions, we receive data in the background, even when the application is closed. The data is used only for the functionality of the application and is transmitted for processing to our servers if the application supports network exchange (depending on the version and mode of the application, access rights). The exchange of the received geodata (including those received in the background) is possible by means of the application through the user interface. We do not transfer data to third parties, including for advertising, etc. Only service employees have access. The user himself can exchange information created in the application from the application.
 
 **Children’s Privacy**
